@@ -1,3 +1,8 @@
+<img width="1265" height="710" alt="Screenshot 2025-10-23 204313" src="https://github.com/user-attachments/assets/65dc0f9d-94cb-46db-acde-db9f01fa6343" />
+
+
+
+
 # 🛒 Flipkart Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
